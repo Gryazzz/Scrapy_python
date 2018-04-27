@@ -1,0 +1,1 @@
+Some exercises in web scraping with Python
